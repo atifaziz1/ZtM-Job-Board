@@ -12434,6 +12434,22 @@
         "state": "New York",
         "country": "United States"
       }
+    },
+    {
+      "id": 871,
+      "name": "Atif Aziz Gurmani",
+      "img": "",
+      "links": {
+        "website": "",
+        "linkedin": "https://www.linkedin.com/in/atif-aziz-b4454034/",
+        "github": "https://github.com/atifaziz1"
+      },
+      "jobTitle": "Senior React Native Developer",
+      "location": {
+        "city": "Riyadh",
+        "state": "",
+        "country": "Kingdom of Saudia Arabia"
+      }
     }
   ]
 }
